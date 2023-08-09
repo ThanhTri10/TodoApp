@@ -1,0 +1,15 @@
+
+.detail-button:hover {
+    color:black;
+    border: solid 1px;
+}
+
+.remove-button:hover {
+    color:black;
+    border: solid 2px;
+}
+
+.update-button:hover {
+    color:black;
+    border: solid 1px;
+}
